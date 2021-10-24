@@ -1,0 +1,12 @@
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\web.config
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Description.txt
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll.config
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csproj.App.config
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb

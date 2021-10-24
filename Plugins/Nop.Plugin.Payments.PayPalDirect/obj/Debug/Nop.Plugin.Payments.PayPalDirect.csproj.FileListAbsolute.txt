@@ -1,0 +1,11 @@
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

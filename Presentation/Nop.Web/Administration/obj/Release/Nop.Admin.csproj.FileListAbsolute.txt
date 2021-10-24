@@ -1,0 +1,4 @@
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csproj.App.config
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.csprojResolveAssemblyReference.cache
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.dll
+E:\Practice\Tortise\Project\nopCommerce_3.90_Source\Presentation\Nop.Web\Administration\obj\Release\Nop.Admin.pdb
